@@ -5,10 +5,10 @@ import Typography from "@mui/material/Typography";
 
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import SearchIcon from "@mui/icons-material/Search";
-import image from "../assets/remove1.png";
-import image1 from "../assets/remove2.png";
-import image2 from "../assets/remove3.png";
-import image3 from "../assets/remove4.png";
+import image from "../../assets/remove1.png";
+import image1 from "../../assets/remove2.png";
+import image2 from "../../assets/remove3.png";
+import image3 from "../../assets/remove4.png";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
